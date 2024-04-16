@@ -1,5 +1,0 @@
-# Ignore all CSV files
-*.csv
-
-# Ignore the csv_files directory
-csv_files/
