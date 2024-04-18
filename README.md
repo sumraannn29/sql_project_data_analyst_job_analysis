@@ -169,7 +169,7 @@ ORDER BY
 - Specialized skills such as **Pyspark** and **Hadoop** suggest that jobs with the highest salaries require the ability to work with large-scale data processing frameworks.
 - Proficiency in programming languages beyond Python and R, such as **Go (Golang)** and familiarity with software development processes, are indicative of the  of the crossover between data analysis and software engineering roles.
 
-![skills for top paying jobs](sql_project\assets\Top_10_Skills_Frequency_Top_Paying_Data_Analyst_Jobs.png)
+![skills for top paying jobs](sql_project/assets/Top_10_Skills_Frequency_Top_Paying_Data_Analyst_Jobs.png)
 
 *Bar graph visualizing the count of skills for the top 10 paying remote jobs for data analysts; generated using python from my SQL query results*
 
