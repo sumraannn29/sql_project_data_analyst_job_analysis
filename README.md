@@ -79,7 +79,7 @@ LIMIT 10
   - The diversity in job titles suggests multiple career paths within data analytics, from hands-on analytical roles to strategic, director-level positions.
   - Investing in learning advanced analytical tools and gaining experience in data-driven decision-making could lead to opportunities in higher-paying, senior positions.
   - The widespread geographical availability (remote positions) enhances opportunities for candidates regardless of their physical location, making these roles accessible to a broader audience.
-![Top paying remote data analyst jobs](sql_project\assets\Top_Paying_Data_Analyst_Jobs_2023.png)
+![Top paying remote data analyst jobs](sql_project/assets/Top_Paying_Data_Analyst_Jobs_2023.png)
 
 
 
